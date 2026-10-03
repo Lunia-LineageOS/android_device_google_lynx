@@ -30,7 +30,8 @@ PRODUCT_PACKAGES += \
     SettingsOverlayG82U8 \
     SettingsOverlayGHL1X \
     SettingsOverlayGWKK3 \
-    SystemUIGoogleOverlayVendorLynx
+    SystemUIGoogleOverlayVendorLynx \
+    UdfpsOverlay
 
 PRODUCT_PACKAGES += \
     ApertureOverlayLynx
