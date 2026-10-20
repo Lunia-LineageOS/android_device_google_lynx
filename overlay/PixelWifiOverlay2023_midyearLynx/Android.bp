@@ -5,5 +5,6 @@
 
 runtime_resource_overlay {
     name: "PixelWifiOverlay2023_midyearLynx",
+    target_package_name: "com.google.android.wifi.resources",
     product_specific: true,
 }
